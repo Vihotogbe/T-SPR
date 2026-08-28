@@ -90,7 +90,7 @@ And the archived code itself:
 
 ## License
 
-This project is licensed under the [TO COMPLETE — MIT or GPL-3.0] License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
