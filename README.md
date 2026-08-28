@@ -32,7 +32,7 @@ This work builds on the original SPR framework introduced in a previous article:
 
 > Houssou, V., Carreau, J. (2026). Spatial pattern regression for meteorological fields interpolation. *EGUsphere* [preprint].
 
-Code for the original SPR method (Article 1) is available at: **[TO COMPLETE — insert Article 1 repository URL]**
+Code for the original SPR method (Article 1) is available at: https://github.com/Vihotogbe/SPR_interpolation
 
 ## Repository structure
 
