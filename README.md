@@ -84,8 +84,16 @@ If you use this code, please cite the associated manuscript:
 
 And the archived code itself:
 
-```
-[TO COMPLETE — Zenodo DOI will be generated automatically after the first GitHub Release]
+
+```bibtex
+@misc{houssou_tspr_code_2026,
+  author       = {Houssou, Vihotogb{\'e} and Carreau, Julie},
+  title        = {{T-SPR}: Code for Temporally-constrained Spatial Pattern Regression},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22149816},
+  url          = {https://doi.org/10.5281/zenodo.22149816}
+}
 ```
 
 ## License
