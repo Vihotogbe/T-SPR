@@ -65,8 +65,6 @@ This repository contains **analysis code only**. It does not include raw input d
 
 - R (version 4.6.1)
 - Python (version 3.10.12)
-- Key Python packages: `numpy`, `pandas`, `scipy`, `matplotlib`, `seaborn`
-- [TO COMPLETE — add any remaining packages, e.g. `scikit-learn`, and provide a `requirements.txt` or `environment.yml` if available]
 
 ## Citation
 
