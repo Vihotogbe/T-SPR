@@ -72,7 +72,7 @@ If you use this code, please cite the associated manuscript:
 
 ```bibtex
 @article{houssou2026tspr,
-  author  = {Houssou, Vihotogb{\'e} and Carreau, Julie},
+  author  = {Houssou, Vihotogbé and Carreau, Julie},
   title   = {Temporally-constrained Spatial Pattern Regression for Reconstruction of High-Resolution Hydrological Forcing},
   journal = {Water Resources Research},
   year    = {2026},
@@ -85,7 +85,7 @@ And the archived code itself:
 
 ```bibtex
 @misc{houssou_tspr_code_2026,
-  author       = {Houssou, Vihotogb{\'e} and Carreau, Julie},
+  author       = {Houssou, Vihotogbé and Carreau, Julie},
   title        = {{T-SPR}: Code for Temporally-constrained Spatial Pattern Regression},
   year         = {2026},
   publisher    = {Zenodo},
